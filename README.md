@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Mis Proyecto Web
+# 🌐 Mis Proyectos Web
 
 **Proyectos web prácticos mientras me formo como desarrollador web**
 
