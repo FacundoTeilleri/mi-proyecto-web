@@ -49,8 +49,6 @@ Este repositorio reúne los proyectos web que voy creando a medida que practico 
 - 🔔 Alertas visuales con SweetAlert2
 - 🧩 Código ordenado y separado en HTML, CSS y JS
 
-> ✏️ *Ajustá esta lista a lo que realmente incluye tu proyecto.*
-
 ## 📂 Proyectos
 
 | Proyecto | Descripción | Tecnologías |
